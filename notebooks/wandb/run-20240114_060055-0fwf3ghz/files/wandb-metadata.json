@@ -1,0 +1,59 @@
+{
+    "os": "Linux-6.2.0-1018-azure-x86_64-with-glibc2.31",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-01-14T06:00:56.167719",
+    "startedAt": "2024-01-14T06:00:55.852701",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "./runnablemem.ipynb",
+    "codePathLocal": "runnablemem.ipynb",
+    "git": {
+        "remote": "https://github.com/bje259/codespaces-jupyter.git",
+        "commit": "23c5448e8d7a21f715b577db7d2c6781c5eaaaf4"
+    },
+    "email": "bradley.euell@gmail.com",
+    "root": "/workspaces/codespaces-jupyter",
+    "host": "codespaces-811aeb",
+    "username": "codespace",
+    "executable": "/home/codespace/.python/current/bin/python3",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3243.88625,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3243.266,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3244.296,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3244.356,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3243.627,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 30.45098876953125,
+            "used": 22.30331039428711
+        }
+    },
+    "memory": {
+        "total": 15.60690689086914
+    }
+}
